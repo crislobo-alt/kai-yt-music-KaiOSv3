@@ -1,6 +1,7 @@
 # YT Music
 
 ## The title explain everything
+## Originally made by arma7x, this is my attempt to port yt-music to Kai OS v3 :)
 
 ##### master(v2.x.x):
 - Stream audio from local file, fallback to network stream(DONE)
